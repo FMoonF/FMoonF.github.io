@@ -7,3 +7,6 @@ layout: default
 _yay_
 
 [back](./)
+
+![test](/assets/img/grids/Albarracín_201104_gray.jpg)
+

@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Link to tips](./tips.html)
+[tips](./tips.html)
 
-[Link to grids](./grids.html)
+[grids](./grids.html)
 
 
 ### Jekyll Themes
