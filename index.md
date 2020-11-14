@@ -4,9 +4,6 @@ You can use the [editor on GitHub](https://github.com/FMoonF/FMoonF.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link to tips](./tips.html)
-[Link to grids](./grids.html)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -30,6 +27,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[Link to tips](./tips.html)
+
+[Link to grids](./grids.html)
+
 
 ### Jekyll Themes
 
