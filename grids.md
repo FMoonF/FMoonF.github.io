@@ -9,8 +9,11 @@ layout: default
 ![](https://img.shields.io/badge/steps-25838-green) ![](https://img.shields.io/badge/pushups-300-green) ![](https://img.shields.io/badge/fasting-26-green)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+\
+\
+\
 **2020-11-14**
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/Albarracín_201104/27.jpg)|![ddd](assets/img/grids/Albarracín_201104/26.jpg)|![ddd](assets/img/grids/Albarracín_201104/25.jpg)|![ddd](assets/img/grids/Albarracín_201104/24.jpg)|![ddd](assets/img/grids/Albarracín_201104/23.jpg)|![aaa](assets/img/grids/Albarracín_201104/22.jpg)|
@@ -25,8 +28,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 >Originally founded as the capitol of a small Moorish kingdom in the 10th century, Albarracín remains one the most perfectly preserved medieval towns in Spain.
 >[Refer to](https://peapix.com/bing/32944)
-
+\
+\
+\
 **2020-11-13**
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/ConneryPond_201114/27.jpg)|![ddd](assets/img/grids/ConneryPond_201114/26.jpg)|![ddd](assets/img/grids/ConneryPond_201114/25.jpg)|![ddd](assets/img/grids/ConneryPond_201114/24.jpg)|![ddd](assets/img/grids/ConneryPond_201114/23.jpg)|![aaa](assets/img/grids/ConneryPond_201114/22.jpg)|
@@ -40,8 +46,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >Paddle out onto Connery Pond in the Adirondack Mountains region of New York and you may be treated to this mist-shrouded peekaboo tease from Whiteface Mountain.
 >We're in the North Elba region of New York, where the town of Lake Placid is known to many as the two-time home of the Winter Olympic Games, in 1932 and again in 1980. The Alpine skiing events in 1980 were held right on the slopes of Whiteface Mountain.
 >[Refer to](https://peapix.com/bing/33016)
-
+\
+\
+\
 **2020-11-10**
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/27.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/26.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/25.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/24.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/23.jpg)|![aaa](assets/img/grids/DiwaliRangoli_201113/22.jpg)|
