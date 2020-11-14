@@ -9,9 +9,9 @@ layout: default
 ![](https://img.shields.io/badge/steps-25838-green) ![](https://img.shields.io/badge/pushups-300-green) ![](https://img.shields.io/badge/fasting-26-green)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 \
 \
-`2020-11-13`
 
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -30,7 +30,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 \
 \
-`2020-11-13` <br/>
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/ConneryPond_201114/27.jpg)|![ddd](assets/img/grids/ConneryPond_201114/26.jpg)|![ddd](assets/img/grids/ConneryPond_201114/25.jpg)|![ddd](assets/img/grids/ConneryPond_201114/24.jpg)|![ddd](assets/img/grids/ConneryPond_201114/23.jpg)|![aaa](assets/img/grids/ConneryPond_201114/22.jpg)|
@@ -47,7 +47,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 \
 \
-`2020-11-9` <br/>
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/27.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/26.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/25.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/24.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/23.jpg)|![aaa](assets/img/grids/DiwaliRangoli_201113/22.jpg)|
