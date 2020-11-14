@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+# Welcome to another page
+
+![] (https://img.shields.io/badge/steps-25838-green)
 
 _yay_
 
@@ -15,5 +17,5 @@ _yay_
 |![ddd](assets/img/grids/Albarracín_201104/14.jpg)|![ddd](assets/img/grids/Albarracín_201104/13.jpg)|![ddd](assets/img/grids/Albarracín_201104/12.jpg)|![ddd](assets/img/grids/Albarracín_201104/11.jpg)|![ddd](assets/img/grids/Albarracín_201104/10.jpg)|![ddd](assets/img/grids/Albarracín_201104/9.jpg)|![aaa](assets/img/grids/Albarracín_201104/8.jpg)|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/Albarracín_201104/6.jpg)|![ddd](assets/img/grids/Albarracín_201104/5.jpg)|![ddd](assets/img/grids/Albarracín_201104/4.jpg)|![ddd](assets/img/grids/Albarracín_201104/3.jpg)|![ddd](assets/img/grids/Albarracín_201104/2.jpg)|![aaa](assets/img/grids/Albarracín_201104/1.jpg)|
 
-test21
+test22
 
