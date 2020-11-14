@@ -9,10 +9,8 @@ _yay_
 [back](./)
 
 | | | |
-|:-:|:-:|:-:|
-|![](assets/img/grids/Albarracín_201104/1.jpg)
-|![](assets/img/grids/Albarracín_201104/2.jpg)
-|![](assets/img/grids/Albarracín_201104/3.jpg)|
+|-|-|-|
+|![ddd](assets/img/logo.png)|![ddd](assets/img/grids/Albarracín_201104/2.jpg)|![](assets/img/grids/Albarracín_201104/3.jpg)|
 
-test8
+test9
 
