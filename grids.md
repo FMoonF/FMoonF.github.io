@@ -12,8 +12,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 \
 \
 \
-**2020-11-14**
-
+2020-11-14  
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/Albarracín_201104/27.jpg)|![ddd](assets/img/grids/Albarracín_201104/26.jpg)|![ddd](assets/img/grids/Albarracín_201104/25.jpg)|![ddd](assets/img/grids/Albarracín_201104/24.jpg)|![ddd](assets/img/grids/Albarracín_201104/23.jpg)|![aaa](assets/img/grids/Albarracín_201104/22.jpg)|
@@ -31,8 +30,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 \
 \
-**2020-11-13**
-
+2020-11-13  
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/ConneryPond_201114/27.jpg)|![ddd](assets/img/grids/ConneryPond_201114/26.jpg)|![ddd](assets/img/grids/ConneryPond_201114/25.jpg)|![ddd](assets/img/grids/ConneryPond_201114/24.jpg)|![ddd](assets/img/grids/ConneryPond_201114/23.jpg)|![aaa](assets/img/grids/ConneryPond_201114/22.jpg)|
@@ -49,8 +47,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 \
 \
-**2020-11-10**
-
+2020-11-10  
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/27.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/26.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/25.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/24.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/23.jpg)|![aaa](assets/img/grids/DiwaliRangoli_201113/22.jpg)|
