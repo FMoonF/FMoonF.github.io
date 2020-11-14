@@ -10,8 +10,6 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-\
-\
 
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -28,8 +26,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >Originally founded as the capitol of a small Moorish kingdom in the 10th century, Albarracín remains one the most perfectly preserved medieval towns in Spain.
 >[Refer to](https://peapix.com/bing/32944)
 
-\
-\
+
 
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -45,8 +42,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >We're in the North Elba region of New York, where the town of Lake Placid is known to many as the two-time home of the Winter Olympic Games, in 1932 and again in 1980. The Alpine skiing events in 1980 were held right on the slopes of Whiteface Mountain.
 >[Refer to](https://peapix.com/bing/33016)
 
-\
-\
 
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
