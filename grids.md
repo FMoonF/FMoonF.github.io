@@ -11,9 +11,8 @@ layout: default
 ## Albarracín, Spain
 © Domingo Leiva/Getty Image
 >A medieval Moorish gem
-
->Originally founded as the capitol of a small Moorish kingdom in the 10th century, Albarracín remains one the most perfectly preserved medieval towns in Spain
-
+>
+>Originally founded as the capitol of a small Moorish kingdom in the 10th century, Albarracín remains one the most perfectly preserved medieval towns in Spain.
 >[Refer to](https://img.peapix.com/e929cec422ba4176a354f507c7d7b3fe_480.jpg)
 
 | | | | | | | |
