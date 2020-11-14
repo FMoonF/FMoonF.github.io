@@ -8,15 +8,9 @@ _yay_
 
 [back](./)
 
-<style type="text/css" rel="stylesheet">
-.td {
-    padding: 1px 
-    }
-</style>
-
 | | | | | | | |
 |-|-|-|-|-|-|-|
-|![ddd](assets/img/grids/Albarracín_201104/7.jpg)|![ddd](assets/img/grids/Albarracín_201104/6.jpg)|![ddd](assets/img/grids/Albarracín_201104/5.jpg)|![ddd](assets/img/grids/Albarracín_201104/4.jpg)|![ddd](assets/img/grids/Albarracín_201104/3.jpg)|![ddd](assets/img/grids/Albarracín_201104/2.jpg)|![aaa](assets/img/grids/Albarracín_201104/1.jpg)|
+|![ddd](assets/img/grids/Albarracín_201104/7.jpg)![ddd](assets/img/grids/Albarracín_201104/6.jpg)|![ddd](assets/img/grids/Albarracín_201104/5.jpg)|![ddd](assets/img/grids/Albarracín_201104/4.jpg)|![ddd](assets/img/grids/Albarracín_201104/3.jpg)|![ddd](assets/img/grids/Albarracín_201104/2.jpg)|![aaa](assets/img/grids/Albarracín_201104/1.jpg)||
 
-test14
+test15
 
