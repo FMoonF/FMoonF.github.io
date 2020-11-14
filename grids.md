@@ -8,10 +8,11 @@ _yay_
 
 [back](./)
 
-![test](assets/img/a.jpg)
-![test](assets/img/grids/logo.png)
-![test](assets/img/grids/Albarracin_201104_gray.jpg)
+| | | |
+|:-:|:-:|:-:|
+|![](assets/img/grids/Albarracín_201104/1.jpg)
+|![](assets/img/grids/Albarracín_201104/2.jpg)
+|![](assets/img/grids/Albarracín_201104/3.jpg)|
 
-
-test7
+test8
 
