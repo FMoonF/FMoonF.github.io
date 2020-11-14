@@ -11,8 +11,8 @@ layout: default
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 \
 \
-\
-`2020-11-14` <br/>
+`2020-11-14`
+
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/Albarracín_201104/27.jpg)|![ddd](assets/img/grids/Albarracín_201104/26.jpg)|![ddd](assets/img/grids/Albarracín_201104/25.jpg)|![ddd](assets/img/grids/Albarracín_201104/24.jpg)|![ddd](assets/img/grids/Albarracín_201104/23.jpg)|![aaa](assets/img/grids/Albarracín_201104/22.jpg)|
