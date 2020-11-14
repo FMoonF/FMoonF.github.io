@@ -8,7 +8,7 @@ _yay_
 
 [back](./)
 
-![test](assets/img/logo.png)
+![test](assets/img/grids/Albarracín_201104_gray.jpg)
 
-test1
+test2
 
