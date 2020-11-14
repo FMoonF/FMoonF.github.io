@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to another page
 
-![] (https://img.shields.io/badge/steps-25838-green)
+![](https://img.shields.io/badge/steps-25838-green)
 
 _yay_
 
