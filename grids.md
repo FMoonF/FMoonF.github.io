@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Welcome to another page
+[Back to home](./)
 
-![](https://img.shields.io/badge/steps-25838-green) ![](https://img.shields.io/badge/pushups-300-green)[BACK](./)
+# Grids
+
+![](https://img.shields.io/badge/steps-25838-green) ![](https://img.shields.io/badge/pushups-300-green)
 
 * * *
 
@@ -19,8 +21,8 @@ layout: default
 ## Albarracín, Spain
 *© Domingo Leiva/Getty Image*
 >A medieval Moorish gem
-
+>
 >Originally founded as the capitol of a small Moorish kingdom in the 10th century, Albarracín remains one the most perfectly preserved medieval towns in Spain
 
-test23
+
 
