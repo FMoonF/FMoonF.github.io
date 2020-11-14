@@ -47,7 +47,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 \
 \
-`2020-11-10` <br/>
+`2020-11-9` <br/>
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](assets/img/grids/placeholders/ph_eeeeee_114.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/27.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/26.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/25.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/24.jpg)|![ddd](assets/img/grids/DiwaliRangoli_201113/23.jpg)|![aaa](assets/img/grids/DiwaliRangoli_201113/22.jpg)|
